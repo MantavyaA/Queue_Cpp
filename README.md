@@ -31,8 +31,6 @@ It contrasts with a **stack**, which follows **LIFO (Last In, First Out)**.
 - **Priority Queue** → Elements are dequeued based on priority rather than order.  
 - **Deque (Double-Ended Queue)** → Allows insertion and deletion from both ends.  
 
-> In this experiment, we focus on **Simple Queue using arrays**.
-
 ---
 
 ## Stack vs Queue
